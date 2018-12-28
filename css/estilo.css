@@ -1,0 +1,38 @@
+#inicio{
+  background-color: #99D4BC;
+}
+
+.negrita{
+  font-weight: bold;
+}
+h1 {
+  font-family: cursive;
+}
+h2{
+  font-family: cursive;
+}
+.image-small {
+  height: 350px;
+  weight: 500px;
+}
+body{
+  background-image: url(../imagenes/fondo2.jpg);
+}
+.images-small{
+  height: 50px;
+  weight: 10px;
+}
+#orgullo-prejuicio{
+  height: 350px;
+  weight: 50px;
+}
+
+.carousel-size{
+  width: 800px;
+  height: 500px;
+}
+
+#logo {
+  height: 200px;
+  width: 200px;
+}
